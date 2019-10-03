@@ -1,6 +1,15 @@
 # E06a-Bullets
 Playing with bullet sprites:
 
+------------------------------------------------------------
+WHAT I DID:
+
+Updated License
+Inserted code to generate bullet, apply a point system, insert health and damage, and collisions
+
+
+-----------------------------------------------------------
+
 It's narwhals vs. penguins(?)! These natural enemies are locked in a battle; who will survive?
 
 I have given you the beginnings of a shooter game. At a minimum, you will need to generate a bullet when the mouse button is clicked (line 95), and then detect a collsion with a penguin (line 76), decrease its health, check if it dies, and increase the player's score.
